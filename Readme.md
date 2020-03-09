@@ -1,2 +1,3 @@
 #Curso de Git
-modificando arquivo
+modificando arquivo.
+testando mais funcoes.
